@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0ea82dc-7ce1-46b9-9caa-673ad03b44ec": {
+      "ProjectGuid": "b0ea82dc-7ce1-46b9-9caa-673ad03b44ec",
+      "DisplayName": "AdventureWorksService",
+      "ColorIndex": 0
+    },
+    "f82cdb08-93a6-41b5-b394-b7c6e3d0aed0": {
+      "ProjectGuid": "f82cdb08-93a6-41b5-b394-b7c6e3d0aed0",
+      "DisplayName": "AdventureWorksSalesEditor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
